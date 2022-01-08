@@ -1,2 +1,2 @@
-def try_me():
-    print("It should be working great")
+def try_me(name):
+    print(f"Welcome to my repo {name}!")
